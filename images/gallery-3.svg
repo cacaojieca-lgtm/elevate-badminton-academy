@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none" aria-hidden="true">
+  <rect width="400" height="300" fill="#F1F5F9"/>
+  <rect x="50" y="60" width="300" height="180" rx="16" fill="#111827" opacity="0.06"/>
+  <path d="M100 200 L200 80 L300 200 Z" fill="#0F62FE" opacity="0.25"/>
+  <circle cx="200" cy="130" r="30" fill="#38BDF8" opacity="0.5"/>
+  <text x="200" y="270" text-anchor="middle" fill="#111827" font-family="system-ui" font-size="14" font-weight="600">Skill Drills</text>
+</svg>

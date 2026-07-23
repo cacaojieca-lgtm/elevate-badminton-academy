@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F62FE"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#g2)" opacity="0.15"/>
+  <ellipse cx="200" cy="260" rx="120" ry="15" fill="#111827" opacity="0.1"/>
+  <rect x="120" y="80" width="160" height="8" rx="4" fill="#0F62FE"/>
+  <rect x="140" y="100" width="120" height="140" rx="12" fill="#111827" opacity="0.8"/>
+  <text x="200" y="270" text-anchor="middle" fill="#111827" font-family="system-ui" font-size="14" font-weight="600">Group Sessions</text>
+</svg>

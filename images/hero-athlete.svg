@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F62FE" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="200" y1="100" x2="450" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F62FE"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="500" rx="24" fill="url(#bg)"/>
+  <circle cx="480" cy="80" r="40" fill="#38BDF8" opacity="0.2"/>
+  <circle cx="80" cy="420" r="60" fill="#0F62FE" opacity="0.15"/>
+  <ellipse cx="300" cy="420" rx="180" ry="20" fill="#111827" opacity="0.08"/>
+  <!-- Athlete silhouette -->
+  <path d="M280 120c0-22 18-40 40-40s40 18 40 40-18 40-40 40-40-18-40-40z" fill="url(#accent)"/>
+  <path d="M240 200c8-40 52-60 80-60s72 20 80 60l-20 180h-40l-10-100-30 100h-40L240 200z" fill="#111827"/>
+  <path d="M200 220l40-20 20 80-60-60z" fill="#111827"/>
+  <path d="M400 220l-40-20-20 80 60-60z" fill="#111827"/>
+  <!-- Motion lines -->
+  <path d="M120 280h80M130 300h60M140 320h40" stroke="#0F62FE" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+  <path d="M420 260l60-30M430 285l50-25M440 310l40-20" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <!-- Trophy accent -->
+  <rect x="460" y="300" width="60" height="8" rx="4" fill="#0F62FE" opacity="0.6"/>
+  <path d="M475 220h30v80h-30z" fill="url(#accent)" opacity="0.8"/>
+  <path d="M465 300h50v12c0 8-6 14-14 14h-22c-8 0-14-6-14-14v-12z" fill="#111827" opacity="0.7"/>
+</svg>
